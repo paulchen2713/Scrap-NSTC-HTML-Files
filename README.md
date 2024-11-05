@@ -1,7 +1,7 @@
 # Scrap-NSTC-HTML-Files
 從[國科會網站](https://wsts.nstc.gov.tw/STSWeb/Award/AwardMultiQuery.aspx) (.aspx) 找清大每位教師的[國家科學及技術委員會補助研究計畫資料](https://wsts.nstc.gov.tw/STSWeb/Award/AwardMultiQuery.aspx?year=107&code=QS01&organ=A%2CFA04%2C&name=) (.html)，抓取 107-111 年度、姓名、系所、計畫名稱、執行年限、金額 等資訊整理成一個檔案。
 
-註: 這不是爬蟲，只是從靜態 html 網頁內容把想要的資料撈出來而已，所有學術補助獎勵資訊皆可在網站上公開存取。
+註: 這不是爬蟲，只是從靜態 html 網頁內容把想要的資料撈出來而已，且要自己手動 Ctrl + Shift + C 把每 1 頁 (1 頁 200 筆) 共 14 頁的 html 網頁內容存下來。
 
 
 ### Tag examples
